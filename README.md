@@ -1,5 +1,3 @@
-# Employee-Payroll-System
-Ever wondered how payroll works behind the scenes? 🧐 This Java OOPS project unveils a simple yet powerful Employee Payroll System, built with rock-solid OOP principles! 💪📈💰 Get ready to dive into clean code! 🚀
 
 ```markdown
 # 🚀 Employee Payroll System (Java OOPS Project) 🚀
@@ -97,5 +95,5 @@ Contributions are always welcome! If you have any suggestions, bug fixes, or new
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ````
