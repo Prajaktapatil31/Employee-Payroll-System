@@ -31,18 +31,13 @@
 
 ---
 
-## 📦 Modules
+## 📂 Classes
 
-- **Employee Module**  
-  - Base class for all employees  
-- **FullTimeEmployee Module**  
-  - Inherits from Employee, fixed salary logic  
-- **PartTimeEmployee Module**  
-  - Inherits from Employee, hourly rate and hours worked  
-- **PayrollSystem Module**  
-  - Stores list of employees and manages salary calculations  
-- **Main Class**  
-  - Runs the application and demonstrates features
+- **Employee.java** – Base class with common attributes  
+- **FullTimeEmployee.java** – Inherits `Employee`, includes fixed salary logic  
+- **PartTimeEmployee.java** – Inherits `Employee`, handles hourly pay logic  
+- **PayrollSystem.java** – Manages employee records and calculates salary  
+- **Main.java** – Entry point of the application
 
 ---
 
