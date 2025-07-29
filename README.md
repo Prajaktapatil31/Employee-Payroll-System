@@ -1,12 +1,10 @@
+🚀 Employee Payroll System (Java OOPS Project) 🚀
 
-```markdown
-# 🚀 Employee Payroll System (Java OOPS Project) 🚀
-
-![Project Structure](image_f312a0.png)
+![Project Structure](<img width="479" height="280" alt="image" src="https://github.com/user-attachments/assets/d3ef9b1c-5322-403d-b433-7c1ec6eac5f3" />)
 
 Ever wondered how payroll works behind the scenes? 🧐 This Java OOPS project unveils a simple yet powerful Employee Payroll System, built with rock-solid OOP principles! 💪📈💰 Get ready to dive into clean code! 🚀
 
-## ✨ Features
+✨ Features
 
 * **Employee Management:** Add and manage different types of employees (Full-Time and Part-Time).
 * **Payroll Calculation:** Calculate the payroll for each employee based on their type and specific attributes (salary for full-time, hourly rate and hours worked for part-time).
@@ -17,31 +15,13 @@ Ever wondered how payroll works behind the scenes? 🧐 This Java OOPS project u
     * **Abstraction:** The `Employee` class can be made abstract to define common behaviors without full implementation (though in this current structure, it might be a concrete class that can be extended).
 * **Modular Design:** The project is structured into logical classes, making it easy to understand and maintain.
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 * **Language:** Java
 * **Development Environment:** Any Java IDE (e.g., Eclipse, IntelliJ IDEA, VS Code with Java extensions)
 * **JDK:** A compatible Java Development Kit is required.
 
-## 📁 Project Structure
-
-```
-
-Employee\_Payroll\_System/
-├── .classpath
-├── .project
-├── .settings/
-├── JRE System Library [JavaSE-21] (JDK version might vary based on your setup)
-├── src/
-│   └── com.employee/
-│       ├── Employee.java
-│       ├── FullTimeEmployee.java
-│       ├── Main.java
-│       ├── PartTimeEmployee.java
-│       └── PayrollSystem.java
-└── ...
-
-````
+📁 Project Structure
 
 * `Employee_Payroll_System/`: The root directory of the project.
 * `src/`: Contains all the source code.
@@ -52,7 +32,7 @@ Employee\_Payroll\_System/
     * `Main.java`: The entry point of the application, demonstrating how to use the payroll system.
     * `PayrollSystem.java`: Manages the collection of employees and handles payroll calculations.
 
-## 🚀 Getting Started
+🚀 Getting Started
 
 Follow these steps to get a copy of the project up and running on your local machine.
 
@@ -65,7 +45,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/Prajaktapatil31/Employee_Payroll_System.git](https://github.com/Prajaktapatil31/Employee_Payroll_System.git)
+    git clone https://github.com/Prajaktapatil31/Employee_Payroll_System.git
     cd Employee_Payroll_System
     ```
 
@@ -82,7 +62,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 
     You should see output in your console demonstrating the creation of employees and their payroll calculations.
 
-## 🤝 Contributing
+🤝 Contributing
 
 Contributions are always welcome! If you have any suggestions, bug fixes, or new features to propose, please feel free to:
 
@@ -93,7 +73,6 @@ Contributions are always welcome! If you have any suggestions, bug fixes, or new
 5.  Push to the branch (`git push origin feature/AmazingFeature`).
 6.  Open a Pull Request.
 
-## 📜 License
+📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-````
